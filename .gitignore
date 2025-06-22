@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.spec
+
+# PyInstaller build files
+/build/
+/dist/
+
+# Virtual Environments
+/venv/
+.venv/
+ENV/
+env/
+venv/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+
+# Logs folder
+/logs/
